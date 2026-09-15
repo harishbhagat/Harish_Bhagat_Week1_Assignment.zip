@@ -1,0 +1,6 @@
+f=open("intro.txt","w")
+f.write("My name is Harish Bhagat. I am studying BCA at SARASWATI COLLEGE SHEGAON.")
+f.close()
+f=open("intro.txt","r")
+print(f.read())
+f.close()

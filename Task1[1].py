@@ -1,0 +1,7 @@
+print("Welcome to Python Programming")
+name=input("Enter Name: ")
+college=input("Enter College Name: ")
+branch=input("Enter Branch: ")
+print("\nName:",name)
+print("College:",college)
+print("Branch:",branch)
